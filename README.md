@@ -15,4 +15,10 @@ Here are some ideas to get you started:
 <!-- 动态标题 -->
 <a><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=ADBAC7&vCenter=true&width=435&lines=%E6%AC%A2%E8%BF%8E%E8%AE%BF%E9%97%AE%E5%B0%8F%E5%B0%9A%E5%90%8C%E5%AD%A6%E7%9A%84%E4%BB%93%E5%BA%93;Hello%2CWorld!" alt="Typing SVG" /></a>
 
-<img src="https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fhbimg.huabanimg.com%2Fe4514f7aabff3f46872c7a28304d41eb63cacdd125831a-qvel7Q_fw658&refer=http%3A%2F%2Fhbimg.huabanimg.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1671801349&t=f36fe95da928acc0299ff3ce3c37a948">
+<!-- 敲代码的图片 -->
+<div align="center" ><img order-radius="100px" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300019556.gif"/></div>
+<br>
+
+<!-- 访问数 -->
+您是第多少个人来看我的呢：
+![Visitor Count](https://profile-counter.glitch.me/tlxxsyh/count.svg)
