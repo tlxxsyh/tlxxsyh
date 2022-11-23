@@ -22,7 +22,8 @@ Here are some ideas to get you started:
 <!-- 访问数 -->
 您是第多少个人来看我的呢：<br>
 <div align="center">
-![Visitor Count](https://profile-counter.glitch.me/tlxxsyh/count.svg)</div>
+<img src="https://profile-counter.glitch.me/tlxxsyh/count.svg">
+</div>
 
 #  🙋 Hello
 
