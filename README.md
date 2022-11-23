@@ -33,3 +33,4 @@ Here are some ideas to get you started:
 <p>&emsp;&emsp;我希望将自己写的代码放在这里，一来记录所学，二来作为参考，与诸君共勉</p>
 <p>&emsp;&emsp;In the pursuit of the moon, I was also illuminated by the moon.</p>
 
+<img src="https://metrics.lecoq.io/insights/tlxxsyh">
