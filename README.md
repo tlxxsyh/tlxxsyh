@@ -32,6 +32,7 @@ Here are some ideas to get you started:
 <p>&emsp;&emsp;写代码真的具有无比的魅力，利用一个个数学公式内核以及一行行代码，实现一个个所见即所得的功能</p>
 <p>&emsp;&emsp;我希望将自己写的代码放在这里，一来记录所学，二来作为参考，与诸君共勉</p>
 <p>&emsp;&emsp;In the pursuit of the moon, I was also illuminated by the moon.</p>
-
-<img src="https://github-readme-stats.vercel.app/api?username=tlxxsyh&theme=github_dark">)<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<div style="display:flex;">
+<img style="width=40%;" src="https://github-readme-stats.vercel.app/api?username=tlxxsyh&theme=github_dark"><br>
+<img style="width=40%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact">
+</div>
