@@ -55,4 +55,4 @@ Here are some ideas to get you started:
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=style=flat-square&logo=jquery&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-FCC624?style=flat-square&logo=docker)
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=tlxxsyh&theme=react_dark)]
+![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=tlxxsyh&theme=react-dark)
