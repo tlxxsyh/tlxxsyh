@@ -33,5 +33,5 @@ Here are some ideas to get you started:
 <p>&emsp;&emsp;我希望将自己写的代码放在这里，一来记录所学，二来作为参考，与诸君共勉</p>
 <p>&emsp;&emsp;In the pursuit of the moon, I was also illuminated by the moon.</p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tlxxsyh&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tlxxsyh&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats#pic_center)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
