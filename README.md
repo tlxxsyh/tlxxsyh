@@ -34,6 +34,6 @@ Here are some ideas to get you started:
 <p>&emsp;&emsp;In the pursuit of the moon, I was also illuminated by the moon.</p>
 
 <div style="display:flex;width:100%;justify-content:center;">
-<img style="height:240px;" src="https://github-readme-stats.vercel.app/api?username=tlxxsyh&theme=github_dark">
-<img style="height:240px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact">
+<img style="height:150px;" src="https://github-readme-stats.vercel.app/api?username=tlxxsyh&theme=github_dark">
+<img style="height:150px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact">
 </div>
