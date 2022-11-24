@@ -69,7 +69,12 @@ Here are some ideas to get you started:
 ![Git](https://img.shields.io/badge/-Git-FCC624?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-pink?style=flat-square&logo=github)
 
+<!-- 奖杯 -->
+🏆 我的奖杯<br>
+![trophy](https://github-profile-trophy.vercel.app/?username=tlxxsyh&theme=gruvbox&no-frame=true)
+
 <!-- 折线图 -->
+💯 每日贡献<br>
 ![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=tlxxsyh&theme=react-dark)
 
 <br>
@@ -88,6 +93,4 @@ Here are some ideas to get you started:
 <!-- just img -->
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202110311924844.png" /></div>
 
-<!-- 奖杯 -->
-🏆 我的奖杯
-![trophy](https://github-profile-trophy.vercel.app/?username=tlxxsyh&theme=gruvbox&no-frame=true)
+
