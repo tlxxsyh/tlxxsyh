@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <div align="center">
 <img src="https://profile-counter.glitch.me/tlxxsyh/count.svg">
 </div>
-
+<br>
 #  🙋 Hello
 
 <p>✍️&nbsp;&nbsp;大家好，这里是小尚同学的代码仓库</p>
@@ -32,13 +32,14 @@ Here are some ideas to get you started:
 <p>&emsp;&emsp;写代码真的具有无比的魅力，利用一个个数学公式内核以及一行行代码，实现一个个所见即所得的功能。</p>
 <p>&emsp;&emsp;我希望将自己写的代码放在这里，一来记录所学，二来作为参考，与诸君共勉。</p>
 <p>&emsp;&emsp;In the pursuit of the moon, I was also illuminated by the moon.</p>
-
+<br>
 <div style="display:flex;width:100%;justify-content:center;">
 <img style="height:180px;" src="https://github-readme-stats.vercel.app/api?username=tlxxsyh&theme=github_dark">
 <img style="height:180px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact">
 </div>
+<br>
 
-💪 计划学习<br>
+💪 计划学习<br><br>
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white)
