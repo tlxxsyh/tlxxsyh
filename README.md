@@ -50,7 +50,6 @@ Here are some ideas to get you started:
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript)
 
-<br><br>
 🐾 准备学习的<br>
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat-square&logo=r&logoColor=white)
@@ -60,7 +59,6 @@ Here are some ideas to get you started:
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=style=flat-square&logo=jquery&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-FCC624?style=flat-square&logo=docker)
 
-<br><br>
 💻 常用的工具<br>
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=style=flat-square&logo=linux&logoColor=black)
