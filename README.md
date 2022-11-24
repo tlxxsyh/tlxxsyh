@@ -59,6 +59,7 @@ Here are some ideas to get you started:
 
 ![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=tlxxsyh&theme=react-dark)
 
+<br>
 <!-- Gif -->
 <div align="center">
   <img alt-"html5" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="100" title="html">
@@ -73,6 +74,3 @@ Here are some ideas to get you started:
 
 <!-- just img -->
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202110311924844.png" /></div>
-
-<!-- profile-3d-contrib -->
-<div align="center" ><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/></div>
