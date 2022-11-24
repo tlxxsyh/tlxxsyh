@@ -28,11 +28,12 @@ Here are some ideas to get you started:
 #  🙋 Hello
 
 <p>✍️&nbsp;&nbsp;大家好，这里是小尚同学的代码仓库</p>
-<p>&emsp;&emsp;或许是自年少起的热爱，让我在高考专业选择中选中了软件工程，这也让我在之后的几年里无数次庆幸自己这一决定</p>
-<p>&emsp;&emsp;写代码真的具有无比的魅力，利用一个个数学公式内核以及一行行代码，实现一个个所见即所得的功能</p>
-<p>&emsp;&emsp;我希望将自己写的代码放在这里，一来记录所学，二来作为参考，与诸君共勉</p>
+<p>&emsp;&emsp;或许是自年少起的热爱，让我在高考专业选择中选中了软件工程，这也让我在之后的几年里无数次庆幸自己这一决定。</p>
+<p>&emsp;&emsp;写代码真的具有无比的魅力，利用一个个数学公式内核以及一行行代码，实现一个个所见即所得的功能。</p>
+<p>&emsp;&emsp;我希望将自己写的代码放在这里，一来记录所学，二来作为参考，与诸君共勉。</p>
 <p>&emsp;&emsp;In the pursuit of the moon, I was also illuminated by the moon.</p>
-<div style="display:flex;">
-<img style="height=240px;" src="https://github-readme-stats.vercel.app/api?username=tlxxsyh&theme=github_dark">
-<img style="height=240px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact">
+
+<div style="display:flex;width:100%;justify-content:center;">
+<img style="height:240px;" src="https://github-readme-stats.vercel.app/api?username=tlxxsyh&theme=github_dark">
+<img style="height:240px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact">
 </div>
