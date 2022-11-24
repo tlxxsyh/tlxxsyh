@@ -33,6 +33,6 @@ Here are some ideas to get you started:
 <p>&emsp;&emsp;我希望将自己写的代码放在这里，一来记录所学，二来作为参考，与诸君共勉</p>
 <p>&emsp;&emsp;In the pursuit of the moon, I was also illuminated by the moon.</p>
 <div style="display:flex;">
-<img style="width=40%;" src="https://github-readme-stats.vercel.app/api?username=tlxxsyh&theme=github_dark"><br>
+<img style="width=40%;" src="https://github-readme-stats.vercel.app/api?username=tlxxsyh&theme=github_dark">
 <img style="width=40%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact">
 </div>
