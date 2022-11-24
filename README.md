@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 # 🙋 Hello
 
-<p>✍️&nbsp;&nbsp;大家好，这里是小尚同学的代码仓库</p>
+<p>😄&nbsp;&nbsp;大家好，这里是小尚同学的代码仓库</p>
 <p>&emsp;&emsp;或许是自年少起的热爱，让我在高考专业选择中选中了软件工程，这也让我在之后的几年里无数次庆幸自己这一决定。</p>
 <p>&emsp;&emsp;写代码真的具有无比的魅力，利用一个个数学公式内核以及一行行代码，实现一个个所见即所得的功能。</p>
 <p>&emsp;&emsp;我希望将自己写的代码放在这里，一来记录所学，二来作为参考，与诸君共勉。</p>
@@ -40,16 +40,19 @@ Here are some ideas to get you started:
 </div>
 <br>
 
-💪 计划学习<br><br>
+🌟 掌握的技术<br>
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-pink?style=flat-square&logo=Python)
 ![Java](https://img.shields.io/badge/-java-yellow?style=flat-square&logo=java)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript)
+
+<br><br>
+🐾 准备学习的<br>
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat-square&logo=r&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-c0ebd?style=flat-square&logo=Node.js)
@@ -57,6 +60,18 @@ Here are some ideas to get you started:
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=style=flat-square&logo=jquery&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-FCC624?style=flat-square&logo=docker)
 
+<br><br>
+💻 常用的工具<br>
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=style=flat-square&logo=linux&logoColor=black)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Google Chrome](https://img.shields.io/badge/Chrome-4285F4?style=flat-square&logo=GoogleChrome&logoColor=white)
+![Edge](https://img.shields.io/badge/Edge-0078D7?style=flat-square&logo=Microsoft-edge&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=fff)
+![Git](https://img.shields.io/badge/-Git-FCC624?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-pink?style=flat-square&logo=github)
+
+<!-- 折线图 -->
 ![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=tlxxsyh&theme=react-dark)
 
 <br>
