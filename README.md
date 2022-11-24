@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <img src="https://profile-counter.glitch.me/tlxxsyh/count.svg">
 </div>
 <br>
-#  🙋 Hello
+# 🙋 Hello
 
 <p>✍️&nbsp;&nbsp;大家好，这里是小尚同学的代码仓库</p>
 <p>&emsp;&emsp;或许是自年少起的热爱，让我在高考专业选择中选中了软件工程，这也让我在之后的几年里无数次庆幸自己这一决定。</p>
